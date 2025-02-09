@@ -30,7 +30,7 @@ Installation Guide
 
 Clone the Repository
 
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/MHemanth21/Web_Scraping.git
 cd yourrepository
 
 Create a Virtual Environment (Optional but Recommended)
